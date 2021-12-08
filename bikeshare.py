@@ -36,7 +36,7 @@ def get_filters():
     """
 
     print('\n')
-    print_spin('Bikeshare Project', 10)
+    print_spin('Bikeshare ProjectX', 10)
     print('_(/)Bikeshare(/)______________________________')
     print(' Hello! Let\'s explore some US bikeshare data! '.center(78, '='))
     # get user input for city (chicago, new york city, washington).
